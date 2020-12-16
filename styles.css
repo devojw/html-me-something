@@ -1,0 +1,35 @@
+html {
+	margin: 0;
+	padding: 0;
+    }
+body {
+    font: 100% "DejaVu Sans Mono", monospace;
+    line-height: 1.88889;
+    color: #000000;
+    background-image: url("images/BujoRBFree.jpg");
+    background-color: #ffffff;
+}    
+p {
+    background-color: #c7efff;
+}
+a:link { 
+	font-weight: bold; 
+
+    }
+    h3 { 
+        font: bold normal 1.4em "DejaVu Sans Mono", monospace;
+        letter-spacing: 1px; 
+        margin-bottom: 0; 
+        color: #292e33;
+        background-color: #f6ffa2;
+} 
+h1{
+    font: 200% bold "DejaVu Sans Mono", monospace;
+    line-height: 1.88889;
+    background-color: #ffc1d0;
+}
+h2{
+    font: 150% "DejaVu Sans Mono", monospace;
+    line-height: 1.88889;
+    background-color: #b4ffc4;
+}
